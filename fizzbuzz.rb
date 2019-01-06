@@ -8,6 +8,4 @@ def fizzbuzz(num)
   elsif num % 3
     "Fizz"
   end
-
-
 end
